@@ -1,0 +1,12 @@
+C:\Users\RadwanRomy\source\repos\sss\sss\bin\Debug\sss.exe.config
+C:\Users\RadwanRomy\source\repos\sss\sss\bin\Debug\sss.exe
+C:\Users\RadwanRomy\source\repos\sss\sss\bin\Debug\sss.pdb
+C:\Users\RadwanRomy\source\repos\sss\sss\obj\Debug\sss.csprojAssemblyReference.cache
+C:\Users\RadwanRomy\source\repos\sss\sss\obj\Debug\sss.Form1.resources
+C:\Users\RadwanRomy\source\repos\sss\sss\obj\Debug\sss.Properties.Resources.resources
+C:\Users\RadwanRomy\source\repos\sss\sss\obj\Debug\sss.csproj.GenerateResource.cache
+C:\Users\RadwanRomy\source\repos\sss\sss\obj\Debug\sss.csproj.CoreCompileInputs.cache
+C:\Users\RadwanRomy\source\repos\sss\sss\obj\Debug\sss.exe
+C:\Users\RadwanRomy\source\repos\sss\sss\obj\Debug\sss.pdb
+C:\Users\RadwanRomy\source\repos\sss\sss\obj\Debug\sss.Registration.resources
+C:\Users\RadwanRomy\source\repos\sss\sss\obj\Debug\sss.Dashboard.resources
