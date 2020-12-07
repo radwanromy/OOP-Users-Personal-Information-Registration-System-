@@ -59,7 +59,7 @@ namespace sss
             }
             if (!hasError)
             {
-                if (username.Equals("romy") && password.Equals("pass"))
+                if (username.Equals("18-36384-1") && password.Equals("radwan"))
                 {
                     User u = new User();
                     u.Name = username;

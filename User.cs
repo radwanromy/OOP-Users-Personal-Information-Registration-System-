@@ -14,5 +14,19 @@ namespace sss
         public string Profession { get; set; }
         public string Username { get; set; }
         public string Password { get; set; }
+
+
+        public string Email2 { get; set; }
+        public string ReEmail { get; set; }
+        public string Password2 { get; set; }
+        public string RePassword2 { get; set; }
+        public string SQ { get; set; }
+        public string SA { get; set; }
+        public string Address { get; set; }
+        public string City { get; set; }
+        public string State { get; set; }
+        public string Zip { get; set; }
+        public string Phone { get; set; }
+
     }
 }

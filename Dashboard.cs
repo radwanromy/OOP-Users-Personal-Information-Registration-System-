@@ -16,8 +16,8 @@ namespace sss
             InitializeComponent();
             string output = String.Format("Name: {0}" +
                  "\nEmail: {1}"+
-                 "\nGender: {2}"+
-                 "\nProfession: {3}", u.Name, u.Email, u.Profession, u.Gender);
+                 "\nDate Of Birth: {2}"+
+                 "\nGender: {3}", u.Name, u.Email, u.Profession, u.Gender);
           //  MessageBox.Show(output);
             richTextBox1.Text = output;
         }
